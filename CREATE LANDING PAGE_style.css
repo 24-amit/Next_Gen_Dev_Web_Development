@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    display: grid;
+    justify-content: center;
+}
+
+.main{
+    background-color: white;
+    color: black;
+}
+
+.about{
+    display: flex;
+    margin: 0 2% 0 5%;
+}
+
+.detail{
+    text-align: left;
+    width: 50%;
+}
+
+.image{
+    border-radius: 50%;
+}

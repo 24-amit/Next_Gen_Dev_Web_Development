@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+
+.heading{
+    text-decoration: underline;
+}
+
+.About h1{
+    text-decoration: underline;
+}
+
+.About img{
+    height: 200px;
+    border-radius: 50%;
+}
+
+.Skills h1{
+    text-decoration: underline;
+}
+
+.Project h1{
+    text-decoration: underline;
+}
+
+.Project img{
+    border-radius: 10px;
+}
+
+.Contact h1{
+    text-decoration: underline;
+}
+
+.Footer h1{
+    text-decoration: underline;
+}
